@@ -3,7 +3,7 @@
 
 # MALT image
 
-An image in this Github repo. is obtained from the following paper.
+The MALT image in this Github repository is obtained from the following paper.
 
 https://www.hindawi.com/journals/crigm/2011/945752/
 
