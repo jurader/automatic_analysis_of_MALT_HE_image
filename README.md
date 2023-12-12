@@ -1,4 +1,4 @@
-# Automatic analysis of HE images for MALT
+# Automatic analysis of MALT HE images
 
 
 # MALT image
